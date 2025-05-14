@@ -100,6 +100,11 @@ while True:
 s.close() 
 
 ```
+# output:Server
+![image](https://github.com/user-attachments/assets/91c0096a-d65f-4075-88e6-cff94883e15f)
+# output:Client
+![image](https://github.com/user-attachments/assets/a10af889-00d3-426b-88bb-0bed2bd4d225)
+
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
